@@ -1,0 +1,7 @@
+theme = "doom_acario_dark"
+
+[editor]
+idle-timeout = 0
+
+[editor.lsp]
+display-messages = true
