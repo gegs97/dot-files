@@ -2,6 +2,7 @@ theme = "doom_acario_dark"
 
 [editor]
 idle-timeout = 0
+line-number = "relative"
 
 [editor.lsp]
 display-messages = true
